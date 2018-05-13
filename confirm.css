@@ -1,0 +1,74 @@
+/*<!--code by Name:Abhishek RedID: 822056658 -->*/
+
+
+table{
+    width: 800px;
+    margin-bottom: 30px;
+    text-align: center;
+   border-style: double;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+
+
+body {font-family: 'Pompiere', cursive;color: #333;background: rgba(0, 0, 0, 0) url("../images/bg.png") repeat fixed 0 0;font-size: 22px;line-height: 1.6em;font-weight: 400;letter-spacing: 1px;}
+html, body {width:100%; padding:0; margin:0;}
+
+::-moz-selection{background:#816943;color:#fff;text-shadow:none}
+::selection{background:#816943;color:#fff;text-shadow:none}
+/* ---------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------- */
+html { -webkit-text-size-adjust: none;}
+span {
+        font-style: italic;
+        font-weight: bold;
+        display: none;
+       
+        }
+.video embed,.video object,.video iframe { width: 100%;  height: auto;}
+img{max-width:100%; height: auto;width: auto\9; /* ie8 */}
+
+h1 {font-size: 38px;
+ text-align: center;
+}
+h2 {font-size: 36px;
+text-align: center;}
+h3 {font-size: 32px;}
+h4 {font-size: 28px;}
+h5 {font-size: 24px;}
+h6 {font-size: 20px;}
+
+h1,h2,h3,h4,h5,h6 {font-weight: 600;color: #111;}
+
+p { color:#816943;
+text-align: center;
+margin-top: 400px;
+ }
+
+
+
+.button:hover,
+a:focus {color: blue;}
+
+ input[type="button"]{
+    border: 2px solid #E7E7E7;
+    border-radius: 0 0 0 0;
+    box-shadow: none;
+    color: black;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
+    height: 40px;
+    line-height: 1.2;
+    margin: 10px 0;
+    outline: medium none;
+    padding: 7px 10px 4px;
+    transition: border-color 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s;
+    margin-left:auto; 
+    margin-right:auto;
+    
+    border: 2px solid #444444;
+}
